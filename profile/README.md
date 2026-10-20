@@ -8,6 +8,7 @@ Plataforma independente de inteligência de crédito para o consumidor, constru�
 - Metodologia: [creditoscopio.com.br/metodologia](https://creditoscopio.com.br/metodologia/) e o repositório [`metodologia`](https://github.com/Creditoscopio/metodologia)
 - Fontes: [creditoscopio.com.br/fontes](https://creditoscopio.com.br/fontes/)
 - Contato: [creditoscopio.com.br/contato](https://creditoscopio.com.br/contato/)
+- [Instagram](https://www.instagram.com/creditoscopio) · [LinkedIn](https://www.linkedin.com/company/creditoscopio/)
 
 ## Princípios
 
